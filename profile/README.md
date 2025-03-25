@@ -1,2 +1,2 @@
 The github home of the Nexusrealms development team.
-Most of our minecraft modding projects are on [our gitlab](https://gitlab.nexusrealms.de/nexusrealms)
+We are moving our public projects to the github, so some repositories might not be present.
